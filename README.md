@@ -18,3 +18,4 @@ npm run build
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
 # Todo-vuetify
+This is a front-end devleopment using vuejs, vuex and vuetify 
